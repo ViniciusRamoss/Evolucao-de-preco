@@ -158,7 +158,7 @@ def create_ppt_report(dados_historico, fig_historico, dados_comparativo=None, fi
 
 def main():
     try:
-        caminho_arquivo = 'Data.xlsm'  
+        caminho_arquivo = 'https://github.com/ViniciusRamoss/Evolucao-de-preco/blob/main/Data.XLSM'  
         aba_dados = 'Data'
         aba_precos = 'Preco'
 
